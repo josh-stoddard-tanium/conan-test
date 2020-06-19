@@ -1,0 +1,6 @@
+[settings]
+context=host
+[options]
+[build_requires]
+MyInstaller/1.0@test/test
+[env]
